@@ -7,4 +7,3 @@ I am especially interested in the following topics:
 - physics-informed machine learning
 - computer vision
 
-You can reach out to me via: philipp.bauerschmidt@tum.de
